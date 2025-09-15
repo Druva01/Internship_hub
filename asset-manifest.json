@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/Internship_hub/static/css/main.867ea4d3.css",
-    "main.js": "/Internship_hub/static/js/main.ddd1decc.js",
+    "main.js": "/Internship_hub/static/js/main.f1dbe30d.js",
     "static/js/239.1d9aca4c.chunk.js": "/Internship_hub/static/js/239.1d9aca4c.chunk.js",
     "static/js/977.5e6367d4.chunk.js": "/Internship_hub/static/js/977.5e6367d4.chunk.js",
     "static/js/455.b43855cc.chunk.js": "/Internship_hub/static/js/455.b43855cc.chunk.js",
     "static/js/453.23ca34f2.chunk.js": "/Internship_hub/static/js/453.23ca34f2.chunk.js",
     "index.html": "/Internship_hub/index.html",
     "main.867ea4d3.css.map": "/Internship_hub/static/css/main.867ea4d3.css.map",
-    "main.ddd1decc.js.map": "/Internship_hub/static/js/main.ddd1decc.js.map",
+    "main.f1dbe30d.js.map": "/Internship_hub/static/js/main.f1dbe30d.js.map",
     "239.1d9aca4c.chunk.js.map": "/Internship_hub/static/js/239.1d9aca4c.chunk.js.map",
     "977.5e6367d4.chunk.js.map": "/Internship_hub/static/js/977.5e6367d4.chunk.js.map",
     "455.b43855cc.chunk.js.map": "/Internship_hub/static/js/455.b43855cc.chunk.js.map",
@@ -16,6 +16,6 @@
   },
   "entrypoints": [
     "static/css/main.867ea4d3.css",
-    "static/js/main.ddd1decc.js"
+    "static/js/main.f1dbe30d.js"
   ]
 }
