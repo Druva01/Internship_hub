@@ -32,7 +32,7 @@ import UserProfile from './components/UserProfile';
 function App() {
   return (
     <AuthProvider>
-      <Router>
+      <Router basename={process.env.PUBLIC_URL}>
         <div className="App">
           <Routes>
             {/* Public Routes */}
