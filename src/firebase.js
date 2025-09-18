@@ -8,7 +8,7 @@ const firebaseConfig = {
   apiKey: "AIzaSyButthPXAxwsmRgVeQ8L2fozujqOpFsENY",
   authDomain: "internshiphub-51dd7.firebaseapp.com",
   projectId: "internshiphub-51dd7",
-  storageBucket: "internshiphub-51dd7.firebasestorage.app",
+  storageBucket: "internshiphub-51dd7.appspot.com",
   messagingSenderId: "719399069026",
   appId: "1:719399069026:web:057aa0fccda3227771b83b",
   measurementId: "G-9VDXL4JXL0"
@@ -29,5 +29,6 @@ export const db = getFirestore(app);
 export const storage = getStorage(app);
 
 export default app;
+
 
 
