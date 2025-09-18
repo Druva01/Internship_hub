@@ -4,13 +4,13 @@ import { getFirestore } from 'firebase/firestore';
 import { getStorage } from 'firebase/storage';
 
 const firebaseConfig = {
-  apiKey: "AIzaSyCrVEqA2nP3xHr77Z9HD8uMEAfOcV6cge4",
-  authDomain: "scontitech-286b2.firebaseapp.com",
-  projectId: "scontitech-286b2",
-  storageBucket: "scontitech-286b2.firebasestorage.app",
-  messagingSenderId: "150580080273",
-  appId: "1:150580080273:web:7f543dac7ff2b136f95930",
-  measurementId: "G-ZPL8M159B9"
+  apiKey: "AIzaSyButthPXAxwsmRgVeQ8L2fozujqOpFsENY",
+  authDomain: "internshiphub-51dd7.firebaseapp.com",
+  projectId: "internshiphub-51dd7",
+  storageBucket: "internshiphub-51dd7.firebasestorage.app",
+  messagingSenderId: "719399069026",
+  appId: "1:719399069026:web:057aa0fccda3227771b83b",
+  measurementId: "G-9VDXL4JXL0"
 };
 
 // Initialize Firebase
@@ -29,3 +29,4 @@ export const db = getFirestore(app);
 export const storage = getStorage(app);
 
 export default app;
+
